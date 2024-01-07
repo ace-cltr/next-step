@@ -83,13 +83,15 @@ h3 {
   position: absolute;
   top: 16px;
   right: 16px;
-  border: none;
-  background: none;
+  border: 2.5px #7950f2 solid;
+  border-radius: 100px;
+  background-color: #ffffff;
   cursor: pointer;
-  font-size: 40px;
+  font-size: 20px;
   color: inherit;
+  font-weight: bold;
 }
 
 .close:hover {
-  color: #7950f2;
+  color: #616161;
 }
